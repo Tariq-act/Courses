@@ -1,0 +1,358 @@
+[
+  {
+    "id": 1,
+    "name": "Introduction to React Native",
+    "instructor": "John Doe",
+    "description": "Learn the basics of React Native development and build your first mobile app.",
+    "enrollmentStatus": "Open",
+    "price": 450,
+    "thumbnail": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg",
+    "duration": "8 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to React Native",
+        "content": "Overview of React Native, setting up your development environment."
+      },
+      {
+        "week": 2,
+        "topic": "Building Your First App",
+        "content": "Creating a simple mobile app using React Native components."
+      }
+    ],
+    "students": [
+      {
+        "id": 101,
+        "name": "Alice Johnson",
+        "email": "alice@example.com"
+      },
+      {
+        "id": 102,
+        "name": "Bob Smith",
+        "email": "bob@example.com"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Advanced Python Programming",
+    "instructor": "Jane Smith",
+    "description": "Take your Python skills to the next level with advanced programming concepts.",
+    "enrollmentStatus": "Open",
+    "price": 550,
+    "thumbnail": "https://images.pexels.com/photos/11035474/pexels-photo-11035474.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "duration": "10 weeks",
+    "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "prerequisites": ["Intermediate Python knowledge"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Python Data Structures",
+        "content": "Working with lists, dictionaries, and sets."
+      },
+      {
+        "week": 2,
+        "topic": "Object-Oriented Programming",
+        "content": "Creating classes and objects in Python."
+      }
+    ],
+    "students": [
+      {
+        "id": 201,
+        "name": "Eva Williams",
+        "email": "eva@example.com"
+      },
+      {
+        "id": 202,
+        "name": "Charlie Brown",
+        "email": "charlie@example.com"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Web Development Fundamentals",
+    "instructor": "Sarah Lee",
+    "description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+    "enrollmentStatus": "Open",
+    "price": 350,
+    "thumbnail": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=1955&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "duration": "6 weeks",
+    "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+    "location": "Online",
+    "prerequisites": ["No prior experience required"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to HTML",
+        "content": "Creating web pages with HTML."
+      },
+      {
+        "week": 2,
+        "topic": "Styling with CSS",
+        "content": "Enhancing web pages with CSS styles."
+      }
+    ],
+    "students": []
+  },
+  {
+    "id": 4,
+    "name": "Machine Learning Basics",
+    "instructor": "Michael Anderson",
+    "description": "An introduction to machine learning concepts and algorithms.",
+    "enrollmentStatus": "Closed",
+    "price": 0,
+    "thumbnail": "https://images.unsplash.com/photo-1485796826113-174aa68fd81b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "duration": "12 weeks",
+    "schedule": "Thursdays, 5:00 PM - 7:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic knowledge of Python"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Machine Learning",
+        "content": "Overview of machine learning and its applications."
+      },
+      {
+        "week": 2,
+        "topic": "Supervised Learning",
+        "content": "Introduction to supervised learning algorithms."
+      }
+    ],
+    "students": [
+      {
+        "id": 301,
+        "name": "David Clark",
+        "email": "david@example.com"
+      },
+      {
+        "id": 302,
+        "name": "Grace Turner",
+        "email": "grace@example.com"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Data Science Foundations",
+    "instructor": "Emily Martinez",
+    "description": "Learn the fundamental concepts and tools of data science.",
+    "enrollmentStatus": "Open",
+    "price": 400,
+    "thumbnail": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "duration": "9 weeks",
+    "schedule": "Tuesdays and Fridays, 6:30 PM - 8:30 PM",
+    "location": "Online",
+    "prerequisites": ["Basic knowledge of statistics"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Data Science",
+        "content": "Overview of data science and its process."
+      },
+      {
+        "week": 2,
+        "topic": "Data Visualization",
+        "content": "Creating meaningful visualizations from data."
+      }
+    ],
+    "students": []
+  },
+  {
+    "id": 6,
+    "name": "Front-End Web Development",
+    "instructor": "Daniel Brown",
+    "description": "Master the skills to build modern, responsive web interfaces.",
+    "enrollmentStatus": "Open",
+    "price": 500,
+    "thumbnail": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "duration": "11 weeks",
+    "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "prerequisites": ["HTML, CSS, and JavaScript basics"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "HTML and CSS Fundamentals",
+        "content": "Building the structure and style of web pages."
+      },
+      {
+        "week": 2,
+        "topic": "Responsive Design",
+        "content": "Creating responsive web layouts for different devices."
+      }
+    ],
+    "students": [
+      {
+        "id": 601,
+        "name": "Olivia Turner",
+        "email": "olivia@example.com"
+      },
+      {
+        "id": 602,
+        "name": "Henry Davis",
+        "email": "henry@example.com"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Digital Marketing Essentials",
+    "instructor": "Ava Lewis",
+    "description": "Learn the basics of digital marketing strategies and techniques.",
+    "enrollmentStatus": "Open",
+    "price": 300,
+    "thumbnail": "https://images.unsplash.com/photo-1557838923-2985c318be48?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "duration": "7 weeks",
+    "schedule": "Saturdays, 2:00 PM - 4:00 PM",
+    "location": "Online",
+    "prerequisites": ["No prior marketing experience required"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Digital Marketing",
+        "content": "Understanding the digital marketing landscape."
+      },
+      {
+        "week": 2,
+        "topic": "Social Media Marketing",
+        "content": "Strategies for marketing on social media platforms."
+      }
+    ],
+    "students": []
+  },
+  {
+    "id": 8,
+    "name": "JavaScript Fundamentals",
+    "instructor": "Liam Taylor",
+    "description": "Get started with the basics of JavaScript programming.",
+    "enrollmentStatus": "Open",
+    "price": 250,
+    "thumbnail": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "duration": "6 weeks",
+    "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "prerequisites": ["No prior coding experience required"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to JavaScript",
+        "content": "Fundamental concepts and syntax of JavaScript."
+      },
+      {
+        "week": 2,
+        "topic": "Control Structures",
+        "content": "Conditional statements and loops in JavaScript."
+      }
+    ],
+    "students": []
+  },
+  {
+    "id": 9,
+    "name": "Mobile App Development with Flutter",
+    "instructor": "Sophia Anderson",
+    "description": "Build cross-platform mobile apps using the Flutter framework.",
+    "enrollmentStatus": "Open",
+    "price": 480,
+    "thumbnail": "https://images.unsplash.com/photo-1617040619263-41c5a9ca7521?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "duration": "9 weeks",
+    "schedule": "Mondays and Wednesdays, 6:30 PM - 8:30 PM",
+    "location": "Online",
+    "prerequisites": ["Basic programming knowledge"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Flutter",
+        "content": "Overview of the Flutter framework and its advantages."
+      },
+      {
+        "week": 2,
+        "topic": "Creating UI with Flutter",
+        "content": "Building user interfaces with Flutter widgets."
+      }
+    ],
+    "students": []
+  },
+  {
+    "id": 10,
+    "name": "Artificial Intelligence and Ethics",
+    "instructor": "Ella Wilson",
+    "description": "Explore the ethical considerations in artificial intelligence and machine learning.",
+    "enrollmentStatus": "Open",
+    "price": 350,
+    "thumbnail": "https://images.unsplash.com/photo-1535378620166-273708d44e4c?q=80&w=1914&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "duration": "8 weeks",
+    "schedule": "Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic understanding of AI and ethics"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "AI and Ethics Fundamentals",
+        "content": "Introduction to ethical considerations in AI."
+      },
+      {
+        "week": 2,
+        "topic": "Bias and Fairness",
+        "content": "Exploring bias in AI and strategies for fairness."
+      }
+    ],
+    "students": []
+  },
+  {
+    "id": 11,
+    "name": "Introduction to Data Analytics",
+    "instructor": "Aiden Johnson",
+    "description": "Learn the basics of data analysis and visualization using Python.",
+    "enrollmentStatus": "Open",
+    "price": 300,
+    "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "duration": "7 weeks",
+    "schedule": "Saturdays, 10:30 AM - 12:30 PM",
+    "location": "Online",
+    "prerequisites": ["Basic knowledge of Python"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Data Analysis Foundations",
+        "content": "Introduction to data analysis concepts and tools."
+      },
+      {
+        "week": 2,
+        "topic": "Data Visualization with Python",
+        "content": "Creating visualizations with Python libraries."
+      }
+    ],
+    "students": []
+  },
+  {
+    "id": 12,
+    "name": "Cybersecurity Fundamentals",
+    "instructor": "Lucas Davis",
+    "description": "Explore the fundamentals of cybersecurity and protecting digital assets.",
+    "enrollmentStatus": "Open",
+    "price": 400,
+    "thumbnail": "https://plus.unsplash.com/premium_photo-1674506652857-6c816df228c4?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "duration": "9 weeks",
+    "schedule": "Tuesdays and Thursdays, 7:30 PM - 9:30 PM",
+    "location": "Online",
+    "prerequisites": ["No prior cybersecurity knowledge required"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Cybersecurity",
+        "content": "Overview of cybersecurity concepts and threats."
+      },
+      {
+        "week": 2,
+        "topic": "Securing Digital Assets",
+        "content": "Strategies for protecting digital data and assets."
+      }
+    ],
+    "students": []
+  }
+]
